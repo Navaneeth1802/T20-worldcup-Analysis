@@ -6,8 +6,10 @@
   <br></br>
   Tools used:
   Python-Pandas(Data cleaning)
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg",alt=left height=40 width=40>
   <br></br>
   Power-BI(Data modeling,Dax measures,Visualisation)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34rqH4Vyd-W4GQyGcbeMCGX6C8VKEANUxFA&s",alt=left height=40 width=40>
 </h4>
 <p align=left><b>Dataset-overview</b>
 
